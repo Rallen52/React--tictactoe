@@ -47,4 +47,11 @@ body {
   
   .game-info {
     margin-left: 20px;
-  }  
+  }
+  
+  .restart {
+      height: 20px;
+      width: 102px;
+      text-align: center;
+      margin-top: 5px;
+  }
